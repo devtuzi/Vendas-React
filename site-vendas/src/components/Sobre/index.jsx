@@ -8,15 +8,11 @@ function Sobre() {
             <div className="contentsobre">
                 <h2>Sobre nós</h2>
                 <div className="lorem">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam aliquid et nisi maiores reprehenderit!
-                        Laudantium molestias labore incidunt sapiente animi. 
-                        Culpa iste Lorem ipdipisicing elit.
-        
-                        Vel repellat sed corrupti asperiores doloremque voluptates magnam quam possimus accusamus incidunt, 
-                        animi nesciunt in velit, iusto, consectetur suscipit nihil libero at! 
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Cumque possimus temporibus animi at aperiam quibusdam quaerat nemo provident amet, 
-                        similique perferendis doloribus exercitationem mollitia ipsa voluptates nesciunt beatae vero accusantium.</p>
+                    <p>
+                        Fundado por Edenisio Gouvea, o sítio oferece frutas e verduras frescas, mel puro e produtos colonias preparados com carinho, o sítio oferece frutas e verduras frescas, mel puro e produtos colonias preparados com carinho.
+                        Nossos animais são criados com carinho e responsabilidade, protegemos o meio ambiente e acreditamos na harmonia com a natureza.
+                        Venha nos visitar e leve para a casa o sabor e a qualidade únicos do Sítio do Dindo.
+                    </p>
                 </div>
             </div>
             <div className="img-nos">
